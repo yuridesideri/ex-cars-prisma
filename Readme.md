@@ -10,5 +10,5 @@
       <strong>Yuri Desideri</strong> - <a href="https://github.com/yuridesideri" target="_new">yuridesideri</a>
     </li>
     <li>
-      <strong>Giovanni Padoa</strong> - <a href="https://github.com/gpadova" target="_new">gpadova</a>
+      <strong>Giovanni Padova</strong> - <a href="https://github.com/gpadova" target="_new">gpadova</a>
   </ul><h2>License</h2><p>This project is licensed under the MIT License - see the <a href="LICENSE.md" target="_new">LICENSE.md</a> file for details.</p><h2>Acknowledgments</h2><ul><li><a href="https://www.prisma.io/" target="_new">Prisma</a> - for providing great tooling and documentation for working with databases in Node.js</li></ul><p>Feel free to use, modify and improve it.</p></div>
